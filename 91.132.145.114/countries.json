@@ -1,0 +1,63 @@
+ [
+
+    {
+        "name": "Algeria",
+        "iso_3166_1": "DZ",
+        "stationcount": 73
+     },
+     {
+        "name": "Australia",
+        "iso_3166_1": "AU",
+        "stationcount": 524
+     },
+     {
+        "name": "Emirates",
+        "iso_3166_1": "AE",
+        "stationcount": 236
+     },
+     {
+        "name": "Egypt",
+        "iso_3166_1": "EG",
+        "stationcount": 51
+     },
+     {
+        "name": "Spain",
+        "iso_3166_1": "ES",
+        "stationcount": 895
+     },
+     {
+        "name": "Russian",
+        "iso_3166_1": "RU",
+        "stationcount": 1817
+     },
+     {
+        "name": "Saudi Arabia",
+        "iso_3166_1": "SA",
+        "stationcount": 55
+     },
+     {
+        "name": "Kingdom",
+        "iso_3166_1": "GB",
+        "stationcount": 1210
+     },
+     {
+        "name": "United States",
+        "iso_3166_1": "US",
+        "stationcount": 5963
+     },
+     {
+        "name": "Germany",
+        "iso_3166_1": "DE",
+        "stationcount": 4130
+     },
+     {
+        "name": "Turkey",
+        "iso_3166_1": "TR",
+        "stationcount": 417
+     },
+     {
+        "name": "China",
+        "iso_3166_1": "CN",
+        "stationcount": 2316
+     }
+ ]
